@@ -1,0 +1,1 @@
+# VIM_manipulator_SLAM
